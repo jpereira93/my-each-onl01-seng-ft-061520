@@ -1,4 +1,4 @@
-def my_each(collection)
+def my_each(collections)
   i = 0
   while i < collections.length
   yield (collections[i])
